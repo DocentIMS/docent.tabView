@@ -6,12 +6,12 @@
 docent.tabView
 ==============================================================================
 
-Tell me what your product does
+A tabbed view for dexterity content types
 
 Features
 --------
 
-- Can be bullet points
+- Converts fieldsets into a tabbed view
 
 
 Examples
@@ -24,16 +24,7 @@ This add-on can be seen in action at the following sites:
 Documentation
 -------------
 
-Full documentation for end users can be found in the "docs" folder, and is also available online at http://docs.plone.org/foo/bar
-
-
-Translations
-------------
-
-This product has been translated into
-
-- Klingon (thanks, K'Plai)
-
+Install via addons and set to content types via management interface.
 
 Installation
 ------------
@@ -56,14 +47,12 @@ Contribute
 
 - Issue Tracker: https://github.com/collective/docent.tabView/issues
 - Source Code: https://github.com/collective/docent.tabView
-- Documentation: https://docs.plone.org/foo/bar
 
 
 Support
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@example.com
+If you are having issues, please let us know via github.
 
 
 License
